@@ -18,7 +18,7 @@ This project is a simulation of a small office local area network using Cisco Pa
             R1
              │
            SW1
- ┌────────┬────────┬────────┬────────┐
+ ┌────────┬────────┬────────┬
  │        │        │        │
 PC1     PC2    Printer   Server
 ```
